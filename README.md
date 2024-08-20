@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz] (https://www.kodluyoruz.org) Front-End eğitiminde oluştur
 Öncelikle projeyi clonelayın. 
 ''' bash 
 (https://github.com/aslansaliha/kodluyoruzilkrepo.git)
-
+''' 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
